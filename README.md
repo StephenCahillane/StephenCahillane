@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @StephenCahillane
-- 👀 I’m interested in learning, connecting and helping others as much as I can. 
-- 🌱 Experienced in Java, but very passionate about React and other JS Libraries. 
-- 💞️ I’m looking to collaborate on any friendly, team oriented projects in which I can be of service. 
+👋 Hi, I’m @StephenCahillane
+👀 I’ve developed several personal projects — feel free to explore and clone them below.
+🌱 Experienced in Java, and passionate about React and modern JavaScript libraries.
+💡 Currently developing Pitch Sales Technology, now in Beta Testing.
+🌐 Learn more at Pitch Interviewing
 
 
 <!---
